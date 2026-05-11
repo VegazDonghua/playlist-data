@@ -2,14 +2,7 @@ const playlistData = [
 
 {
 title:"Renegade-Immortal Ep 140",
-server1:"https://www.youtube.com/embed/dQw4w9WgXcQ",
-server2:"",
-server3:""
-},
-
-{
-title:"Renegade-Immortal Ep 139",
-server1:"https://www.youtube.com/embed/dQw4w9WgXcQ",
+server1:"https://geo.dailymotion.com/player/xid0t.html?video=k1gQyr24Tsvv5nFWNHa",
 server2:"",
 server3:""
 }
