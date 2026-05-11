@@ -1,4 +1,4 @@
-const playlistRenegadeImmortal = [
+const playlistData = [
 
 {
 title:"Renegade-Immortal Ep 140",
