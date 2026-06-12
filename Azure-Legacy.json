@@ -1,9 +1,15 @@
-[  
+[ 
+  {
+    "title": "Azure Legacy S3 Ep 12 (81)",
+    "server1": "https://geo.dailymotion.com/player/xhojl.html?video=k19K1cbO3iTY5OGBRRE",
+    "server2": "https://geo.dailymotion.com/player/xid0t.html?video=k6MAILPiiVCyPoGBF1Y",
+    "server3": "https://ok.ru/videoembed/14702920075954"
+  },
   {
     "title": "Azure Legacy S3 Ep 11 (80)",
     "server1": "https://geo.dailymotion.com/player/x1kcvu.html?video=k2snDNSi8WYjMwGrmtg",
-    "server2": "",
-    "server3": ""
+    "server2": "https://geo.dailymotion.com/player/xid0t.html?video=k2NbjKm1W2j5gpGqO4y",
+    "server3": "https://ok.ru/videoembed/14596248242866"
   },
   {
     "title": "Azure Legacy S3 Ep 10 (79)",
